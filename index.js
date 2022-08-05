@@ -1,3 +1,3 @@
 export function hello (name) {
-  console.log(`🐱🐶🐔🐖🐦🦆🌈✈️☀️${name}, hi`)
+  return `🐱🐶🐔🐖🐦🦆🌈✈️☀️${name}, hi`
 }
